@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="210.28.133.13" id="c5600bf6-b2fe-45a3-a312-cdf9b243da98" port="20641" customName="21" nameFormat="CUSTOM" username="lich">
+        <option name="customName" value="21" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="210.28.132.174" id="0e9186a8-2fcb-48fa-912d-6ae85d35ea07" port="22" customName="ti5" nameFormat="CUSTOM" username="lich">
+        <option name="customName" value="ti5" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="210.28.132.175" id="924b0980-3884-41ac-8498-21506512f11c" port="22" customName="10806" nameFormat="CUSTOM" username="lich">
+        <option name="customName" value="10806" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="210.28.135.34" id="ad6ea027-8cec-4b74-a751-79b7b8dbe695" port="22" customName="3090ti-1" nameFormat="CUSTOM" username="lich">
+        <option name="customName" value="3090ti-1" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

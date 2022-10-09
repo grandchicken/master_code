@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf410748-0400-4803-9146-b7d31e56afed" name="ti6">
+        <fileTransfer accessType="SFTP" host="210.28.132.175" port="22" sshConfigId="e73fe299-8c93-422a-b071-83948a151823" sshConfig="10806nlp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="07cc6415-39db-48e0-83c2-9144485eeccd" name="21">
+        <fileTransfer accessType="SFTP" host="210.28.133.13" port="20641" sshConfigId="c5600bf6-b2fe-45a3-a312-cdf9b243da98" sshConfig="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2aa743ba-a0bc-42f6-8252-98c757b5afcd" name="ti5">
+        <fileTransfer accessType="SFTP" host="210.28.132.174" port="22" sshConfigId="0e9186a8-2fcb-48fa-912d-6ae85d35ea07" sshConfig="ti5">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c9b32f9a-f73b-49c1-a8fc-80ef890cb3c7" name="ti6-lich">
+        <fileTransfer accessType="SFTP" host="210.28.132.175" port="22" sshConfigId="924b0980-3884-41ac-8498-21506512f11c" sshConfig="10806">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0fd4e43e-77a0-4adf-aab0-3f4665e0cac0" name="3090ti-1">
+        <fileTransfer accessType="SFTP" host="210.28.135.34" port="22" sshConfigId="ad6ea027-8cec-4b74-a751-79b7b8dbe695" sshConfig="3090ti-1">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

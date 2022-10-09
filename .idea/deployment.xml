@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ti6" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="21">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="3090ti-1">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lich/sample_program/MNER_UMT" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ti5">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lich/sample_program" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ti6">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/data_ti6_d/lich/program_sample/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ti6-lich">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
